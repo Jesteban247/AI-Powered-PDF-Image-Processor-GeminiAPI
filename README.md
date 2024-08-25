@@ -29,7 +29,11 @@ This project leverages Google Gemini's Generative AI to answer questions from PD
 
 ## 🎥 Demo Video
 
-*Coming Soon: Watch how the app works!*
+Watch how the app works!
+
+
+https://github.com/user-attachments/assets/893fecac-ac27-4a7f-8b32-e9c4ae87fc65
+
 
 ## 🛠️ Running the App
 
